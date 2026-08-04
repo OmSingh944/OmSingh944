@@ -181,13 +181,13 @@ om486496@gmail.com
 > "First, solve the problem. Then, write the code."
 
 ---
+<div align="center">
+
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OmSingh944/OmSingh944/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OmSingh944/OmSingh944/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://github.com/OmSingh944/OmSingh944/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github.com/OmSingh944/OmSingh944/blob/output/github-contribution-grid-snake.svg" width="900">
+
+</div>
 
 
 # 🌟 Thanks for Visiting!
