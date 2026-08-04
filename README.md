@@ -30,6 +30,7 @@
 - Backend Development
 
 📍 Lucknow, India
+
  📫 Reach me at om486496@gmail.com
 ---
 
