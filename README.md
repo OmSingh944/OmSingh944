@@ -181,11 +181,12 @@ om486496@gmail.com
 > "First, solve the problem. Then, write the code."
 
 ---
+
 <div align="center">
 
 ## 🐍 Contribution Snake
 
-<img src="https://github.com/OmSingh944/OmSingh944/blob/output/github-contribution-grid-snake.svg" width="900">
+<img src="https://github.com/OmSingh944/OmSingh944/blob/output/github-contribution-grid-snake-dark.svg" width="900">
 
 </div>
 
