@@ -13,7 +13,7 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech Information Technology Student**
+🎓 B.Tech in Information Technology, Dr. A.P.J. Abdul Kalam Technical University (2024 – 2028)
 
 💻 Passionate about Java Development and Problem Solving.
 
@@ -29,8 +29,8 @@
 - Cyber Security
 - Backend Development
 
-📍 India
-
+📍 Lucknow, India
+ 📫 Reach me at om486496@gmail.com
 ---
 
 # 🛠 Tech Stack
