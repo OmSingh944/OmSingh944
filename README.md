@@ -74,6 +74,26 @@
 ✔ Git & GitHub
 
 ---
+# 💼 Experience
+
+### 🛡️ Cyber Security Intern | Prodigy InfoTech
+
+📅 Internship
+
+- 🔹 Completed practical cybersecurity tasks and assignments.
+- 🔹 Gained hands-on experience in vulnerability assessment and security concepts.
+- 🔹 Worked on cybersecurity projects using industry best practices.
+- 🔹 Strengthened analytical, problem-solving, and secure coding skills.
+
+---
+
+# 📧 Contact Me
+
+- 📧 **Email:** **om486496@gmail.com**
+- 💼 **LinkedIn:** https://www.linkedin.com/in/om-singh-015b7738b
+- 💻 **GitHub:** https://github.com/OmSingh944
+
+---
 
 # 🎯 Goals
 
@@ -107,7 +127,7 @@ https://www.linkedin.com/in/om-singh-015b7738b
 
 📧 Email
 
-your-email@example.com
+om486496@gmail.com
 
 ---
 
