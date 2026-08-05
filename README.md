@@ -132,11 +132,6 @@ om486496@gmail.com
 
 ---
 
-# ⚡ Fun Fact
-
-> "Code. Learn. Build. Repeat."
-
----
 # 📊 GitHub Stats
 
 <p align="center">
