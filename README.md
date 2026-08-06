@@ -17,7 +17,7 @@
 
 💻 Passionate about Java Development and Problem Solving.
 
-🌱 Currently Learning:
+🎯 Currently Learning:
 - Java
 - Data Structures & Algorithms
 - Object Oriented Programming
