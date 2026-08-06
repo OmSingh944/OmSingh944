@@ -147,13 +147,6 @@ om486496@gmail.com
 <img src="https://streak-stats.demolab.com?user=OmSingh944&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=OmSingh944&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
 
 ---
 
