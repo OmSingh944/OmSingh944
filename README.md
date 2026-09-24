@@ -19,6 +19,7 @@
 
 🎯 Currently Learning:
 - Java
+- MySQL 
 - Data Structures & Algorithms
 - Object Oriented Programming
 - Web Development
